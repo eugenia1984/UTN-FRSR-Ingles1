@@ -6,7 +6,7 @@ Temas:
 
 - [Sustantivo](https://github.com/eugenia1984/UTN-FRSR-Ingles1/tree/main/sustantivo)
 
-- Grupo Nominal
+- [Grupo Nominal](https://github.com/eugenia1984/UTN-FRSR-Ingles1/tree/main/grupo_nominal)
 
 - Grupo Nominal Complejo
 
