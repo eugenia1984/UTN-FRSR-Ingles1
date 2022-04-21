@@ -132,3 +132,21 @@ The logic **of** the program -> La lógica **del** programa
 The program**'s** logic -> El programa es lógico
 
 ---
+
+## Determinantes
+
+### Articulos indefinidos A / AN
+
+**a** technical education -> **una** educación técnica
+
+**an** applied technical knowledge -> **un** conocimiento técnico aplicado
+
+
+### Articulo definido THE
+
+**the** instruction set -> **el** conjunto de instrucciones
+
+**the** program instructions -> **las** instrucciones del programa
+
+---
+
