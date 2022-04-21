@@ -70,4 +70,45 @@ Sustantivos
 
 | funcion adjetiva | funcion nominal (nucleo) |
 | ---------------- | -------------------------|
-| modern
+| modern - colour - tv | systems |
+| - accuracy - study | processor |
+
+| funcion nominal | funcion adjetiva |
+| --------------- | ---------------- |
+| sistemas | de TV - color - modernos |
+| procesador | - de estudio - de precision|
+
+---
+
+## Presta atencion al orden de las palabras
+
+
+```
+   Ingles           Español
+-----------------  --------------
+Software design    Diseño de Software
+Design software     Software de Diseño
+```
+---
+
+##  Frase proposicional
+
+Las frases preposicionales siempre comienzan con una preposicion, y contienen un sustantivo o frase nominal.
+
+Ejemplos:
+
+The modern history of technology -> La historia moderna de la tecnología
+
+The new modern history of computational database technology of macro computers -> La historia moderna nueva de la tecnologia de base de datos computacional de las macrocomputadoras
+
+---
+
+## El genitivo
+
+**'s** = relacion de pertenencia / posision
+
+The user**'s** wishes -> los deseos **del** usuario
+
+The programmer**'s** logic -> la lógica **del** programador
+
+---
