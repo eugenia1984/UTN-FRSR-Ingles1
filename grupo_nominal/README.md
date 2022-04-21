@@ -111,4 +111,24 @@ The user**'s** wishes -> los deseos **del** usuario
 
 The programmer**'s** logic -> la lógica **del** programador
 
+
+**sustantivos plurales que terminan en S**: solo agregan apostrofo
+
+
+The user**'s** wishes -> los deseos **del** usuario
+
+The programmer**'s** logic -> la lógica **del** programador
+
+**sustantivos plurales que NO terminan en S agregan apostrofos y S ('s) igual que los sustantivos singulares**
+
+cherubim**'s** web site -> el sitio de los querubines
+
+people**'s** email addresses -> las direcciones de correo electronico de la gente
+
+**'S utilizando con sustantivos que denominan personas, animales, paises, organizaciones y otros grupos que representen seres vivientes**
+
+The logic **of** the program -> La lógica **del** programa
+
+The program**'s** logic -> El programa es lógico
+
 ---
