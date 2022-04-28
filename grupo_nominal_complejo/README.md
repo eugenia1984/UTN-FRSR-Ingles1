@@ -175,19 +175,47 @@ Ejemplo: The new interactive platform for children of all ages.
 
 **A - FRASE ADJETIVA**
 
-El nucleo de estas frases es modificado por un **adjetivo**, por ejemplos:
+El nucleo de estas frases es modificado por un **adjetivo**, por ejemplo:
 
 MODEMS **adaptable** for different purposes. -> *Módems adaptabes a/para diferentes propósitos*
 
 TOOLS **suitable** for web design -> *Herramientas adecuadas para el diseño de páginas webs*
 
 
+
 **B - FRASE VERBAL**
+
+En este caso, el núcleo está modificado por las formas verbales **-ed**, **-ing**, por ejemplo:
+
+The FORCES **acting** on bodies -> *Las fuerzas que actúa sobre/en los cuerpos* OJO no es actuando, no usamos gerundio
+
+One more cooling UNITS **mounted** on the pc -> *Una o más UNIDADES de enfriamento montadas en la pc* (mounted -> montadas)
+
+
 
 **C - FRASE PREPOSICIONAL**
 
+En este tipo de frases, el núcleo está modificado por otra palabra o frase que comienza con una preposicion (**for**, **to**, **in**, **about**, **on**, **at**, etc), por ejemplo:
+
+All other BRANCHES **of** theorical mechanics -> *Todas las otras RAMAS de la mecánica teórica*
+
+The MACHINERY **of** modern industrial civilization -> *La ORGANIZACIÖN de la civilización industrial moderna*
+
+Some interesting NEWS **about** technology -> *Algunas NOTICIAS interesantes sobre tecnologías*
+
+
+
 **D - ORACION SUBORDINADA ADJETIVA**
 
+Este es el caso en el que el núcleo de la frase está modificado por una oración que comienza con un subordinante (**that**, **who**, **which**, **when**, **where**, etc), por ejemplo:
 
+Sensor MECHANISMS **that** respond to changes -> *Meanismos de sensor / sensores* que *responden a cambios*
+
+Ink CARTRIDGES **which** are not recognized by your printer -> *Cartuchos de tinta* que/los cuales *no son reconocidos por tu impresora*
+
+American inventor WILLIS CARRIER **who** designed a mechanical air conditioner -> *El inventor americano Willis Carrier,* quien *diseño un aire acondicionado mecánico*
+
+
+---
 ---
 
