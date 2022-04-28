@@ -8,6 +8,8 @@ MODIFICADORES  <---- NUCLEO ----> MODIFICADORES
 se ubican a la                    se ubican a la
 izquierda del                     derecha del nucleo
 nucleo
+```
+
 ---
 
 Los **modificadores** agregan información acerca del núcleo.
@@ -135,6 +137,9 @@ All Epson Printers / will usually accept / compatible and refillable cartridges.
 
 ---
 
-## :star:
+## :star: Mira y escucha el videocon la explicación del tema  
+
+
+
 ---
 
