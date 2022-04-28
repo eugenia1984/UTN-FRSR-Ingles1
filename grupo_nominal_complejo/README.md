@@ -219,3 +219,12 @@ American inventor WILLIS CARRIER **who** designed a mechanical air conditioner -
 ---
 ---
 
+
+## :star: ¿ Dónde está el núcleo en las frases nominales complejas ?
+
+
+Depende de la frase, puede estar en **distintas posiciones**, no siempre está al final.
+
+---
+---
+
