@@ -45,7 +45,96 @@ Esta es, en pocas palabras, la estructura de una frase, o **grupo nominal**.
 
 SUJETO PRINCIPAL/NUCLEO: **emergence**
 
-PRE / POST MODIFICADORES: **seemingly** y **inevitable**
+PRE MODIFICADORES: **seemingly** y **inevitable**
 
+POST MODIFICADORES: **if resistance to drugs such as antibiotics**
+
+---
+
+## :star: FRASE NOMINAL COMPLEJA - FORMA
+
+Las frases nominales complejas incluyen diferentes tipos de post modificación. 
+
+- a) Frase adjetiva:
+
+**modems** adaptable for different purposes 
+
+the **color// installed in the right slot	
+
+
+
+
+- b) Frase verbal (-ing, -ed):
+
+the **forces** act**ing** on bodies
+
+one or more cooling **units** mount**ed** on the pc	
+
+
+- c) Frase preposicional:
+
+All other **branches** **of** theoretical mechanics
+
+the **machinery** **of** modern industrial civilization
+
+- d) Oración subordinada adjetiva:
+
+sensor **mechanisms** **that** respond to changes
+
+ink **cartridges** **which** are not recognized by your printer
+
+American inventor **Willis Carrier** **who** designed a mechanical air conditioner
+
+---
+
+## :star: RECONOCIMIENTO DE FRASES NOMINALES
+
+
+- a) Por la posición del sustantivo:
+
+new compressive **forces**
+
+energy efficient roof **systems**
+
+
+- b) Por los sufijos característicos de sustantivos:
+
+geometric **flexibility**
+
+turnkey **construction**
+
+low **maintenance**
+ 
+structural and architectural **lightness**
+
+
+- c) Por la forma plural:
+
+new ceiling **systems**
+
+solid **spheres**
+
+		
+- d) Por los premodificadores:
+
+a three-dimensional **structure**
+
+sophisticated Graphical User **Interfaces**
+
+many modular **coverings**
+
+several plain reticular **structures**
+
+
+
+- e) Por otros elementos lingüísticos presentes en la oración:
+
+All Epson Printers / will usually accept / compatible and refillable cartridges. The only time / there is an exception / is when the printer/ has received /a downloaded firmware update from Epson. First of all, / are you sure /that the message /is not just asking for/ your permission to use the installed ink cartridges? 
+
+
+
+---
+
+## :star:
 ---
 
