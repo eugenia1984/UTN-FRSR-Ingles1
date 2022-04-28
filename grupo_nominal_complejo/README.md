@@ -61,7 +61,7 @@ Las frases nominales complejas incluyen diferentes tipos de post modificación.
 
 **modems** adaptable for different purposes 
 
-the **color// installed in the right slot	
+the **color** installed in the right slot	
 
 
 
@@ -131,14 +131,62 @@ several plain reticular **structures**
 
 - e) Por otros elementos lingüísticos presentes en la oración:
 
-All Epson Printers / will usually accept / compatible and refillable cartridges. The only time / there is an exception / is when the printer/ has received /a downloaded firmware update from Epson. First of all, / are you sure /that the message /is not just asking for/ your permission to use the installed ink cartridges? 
+All Epson Printers / will usually accept / compatible and refillable cartridges. 
+
+The only time / there is an exception / is when the printer/ has received /a downloaded firmware update from Epson. 
+
+First of all, / are you sure /that the message /is not just asking for/ your permission to use the installed ink cartridges? 
 
 
 
 ---
 
-## :star: Mira y escucha el videocon la explicación del tema  
+## :star: Mira y escucha el video con la explicación del tema  
 
+
+### ¿ Qué es una frase nominal ?
+
+- una frase nominal es un conjunto de palabras que denominan algo o alguien -> FRASE NOMINAL SIMPLE
+
+- un grupo de palabras encabezada por un sustantivo, que incluye modificadores -> FRASE NOMINAL COMPLEJA
+
+
+Ejemplo:
+
+The new language 
+
+-> *the* y *new* son los pre modificadores
+
+-> *language* es el nucleo (sustantivo)
+
+Siempre primero tengo que buscar el **nucleo** de la frase, para poder identificar de que estamos hablando.
+
+Por lo general el núcleo de una frase nominal es un sustantivo y se encuentra al final.
+
+### FRASE NOMINAL COMPLEJA
+
+Se denominan de este modo porque son frases modificadas por otras frases.
+
+Estructura: FRASE NOMINAL SIMPLE + POST MODIFICADOR
+
+Ejemplo: The new interactive platform for children of all ages.
+
+### DISTINTOS TIPOS DE FRASE NOMINAL COMPLEJA
+
+**A - FRASE ADJETIVA**
+
+El nucleo de estas frases es modificado por un **adjetivo**, por ejemplos:
+
+MODEMS **adaptable** for different purposes. -> *Módems adaptabes a/para diferentes propósitos*
+
+TOOLS **suitable** for web design -> *Herramientas adecuadas para el diseño de páginas webs*
+
+
+**B - FRASE VERBAL**
+
+**C - FRASE PREPOSICIONAL**
+
+**D - ORACION SUBORDINADA ADJETIVA**
 
 
 ---
