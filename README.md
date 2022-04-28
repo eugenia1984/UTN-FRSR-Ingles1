@@ -8,7 +8,7 @@ Temas:
 
 - [Grupo Nominal](https://github.com/eugenia1984/UTN-FRSR-Ingles1/tree/main/grupo_nominal)
 
-- Grupo Nominal Complejo
+- [Grupo Nominal Complejo](https://github.com/eugenia1984/UTN-FRSR-Ingles1/tree/main/grupo_nominal_complejo)
 
 - Grupo Verbal
 
