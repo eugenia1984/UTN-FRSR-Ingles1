@@ -210,6 +210,138 @@ Paul **is** at University -> Paul **está** en la universidad
 | You ere part of the team | You were not | You weren't | Were you...?  |
 | We were there | We were not | We weren't | Were we...?  |
 | They were the beast playaers | They were not | They weren't | Who were they? |
+
+
+### Ejemplo:
+
+Pedestrian accidents **were** common in 2010.
+
+Los accidentes de peatones **eran/fueron** comunes en 2010.
+
+---
+
+## :star: Futuro Simple
+
+| Afirmativo | Negativo | Contraccion | Interrogativo |
+| ---------- | -------- | ----------- | ------------- |
+| I will be a student | I will not be | I won't be | Will I be...?|
+| You will be in my cass |You will not be | You won't be | Will you be...? |
+| He will be out of the town | He  will not be| He won't be |  Will he be...? |
+| She will be in England | She  will not be | She won't be | Will she be...? |
+| It will be a good time | It  will not be | It won't be |  Will it be...? |
+| You will be part of the team | You  will not be | You won't be | Will you be...? |
+| We will be there | We  will not be | We won't be | Will we be...? |
+| They will be the best players | They  will not be | They won't be | Will they be...? |
+
+### Ejemplo:
+
+We **won't**(*will not*) be ready until Summer
+
+(Nosotros) **no estremos** listos hasta el Verano
+
+
+---
+
+## :star: Condicional Simple
+
+| Afirmativo | Negativo | Contraccion | Interrogativo |
+| ---------- | -------- | ----------- | ------------- |
+| I would/I'd be a student | I would not be | I wouldn't be | Would I be...? |
+| You would/You'd be in my cass | You would not be | You wouldn't be | Would you be...? |
+| He would/ He'd be out of the town | He  would not be| He wouldn't be |  Would he be...? |
+| She would/She'd be in England | She  would not be | She wouldn't be | Would she be...? |
+| It would/It'd be a good time | It  would not be | It wouldn't be |  Would it be...? |
+| You would/You'd be part of the team | You  would not be | You wouldn't be | Would you be...? |
+| We would/We'd be there | We  would not be | We wouldn't be | Would we be...? |
+| They would/They`d be the best players | They  would not be | They wouldn't be | Would they be...? |
+
+### Ejemplo:
+
+Metropolitan network **would not/ woldn't be** for minucipal services.
+
+La red metropolitana **no sería** para servicios municipales.
+
+
+---
+
+### Presta muchaa tención
+
+
+```
+Futuro Simple                  Condicional Simple
+-------------                  -----------------
+It WILL BE an important step   It WOULD BE and important step
+SEERÁ un paso importante       SERÍA un paso importante
+```
+
+---
+
+#### Diferentes traducciones del verbo TO BE
+
+Be...
+
+... edad -> Manuel is thirteen years old
+
+... precios -> How much is it? It's 20 euros
+
+... medidas -> It's 15 metres long
+
+... tiempo atmosférico -> It's windy
+
+... profesiones -> My father is a plumber
+
+... sentimeitnos / estados -> She is happy today
+
+... hechos generales -> Madrid is in Spain
+
+
+---
+
+### :star: Traducción como SER
+
+```
+Ingles                    Español
+------------              ---------
+Technology IS necessary   La tecnología ES necesaria
+Education WAS essential   La educacion FUE/ERA necesaria
+```
+
+---
+
+### Traducción como ESTAR
+
+```
+Inglés                          Español
+------------                    ------------
+The computers WERE in the lab   Las computadoras ESTUVIERON/ESTABAN en el laboratorio
+```
+
+
+---
+
+## :star: Traduccion como TENER
+
+```
+Ingles                               Español
+---------                            --------------
+She IS two years old.                Ella TIENE dos años de edad.
+They ARE afraid of dogs.             Ellos TIENEN miedo de los perros.
+The new road IS one kilometer long.  La nueva carretera TIEEN un kilómetro de largo
+They WERE cold and hungry.           Ellos TENÍAN  frío y hambre
+```
+
+---
+
+## :star: Traducciones ESPECIALES
+
+```
+Ingles                  Español
+---------               --------------
+It WAS five pesos       COSTÓ cinco pesos
+They ARE ten pesos      CUESTAN/VALEN diez pesos
+She IS always late      Ella siempre LLEGA tarde
+Tommy WAS early         Tommy LLEGÓ temprano
+```
 ---
 ---
 
