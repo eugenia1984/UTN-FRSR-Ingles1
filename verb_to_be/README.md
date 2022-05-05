@@ -4,6 +4,133 @@
 ---
 ---
 
+## :star: VERBO TO BE
+
+
+### 1. TRADUCCIÓN DEL VERBO TO BE COMO SER O ESTAR
+
+--- 
+
+El verbo **TO BE** se traduce como **ser** o **estar** y en inglés, es un **verbo irregular** tanto en el presente como en el pasado. 
+
+Para formar los tiempos verbales restantes es como cualquier otro verbo.
+
+
+Presta atención a los siguientes ejemplos: 
+
+#### A.	PRESENTE SIMPLE:
+
+Formas: AM, IS, ARE /AM NOT, IS NOT (ISN’T), ARE NOT (AREN’T)
+
+Ejemplos:	
+```
+I am a graduate student.
+What is computer testing?
+Cash and financial control are important factors.
+Silicon Valley is in Northern California.
+```
+
+#### B.	PASADO SIMPLE:
+
+Formas: WAS, WERE / WAS NOT (WASN’T), WERE NOT (WEREN’T)
+
+Ejemplos:	
+```
+The dynamic behavior of materials was relevant in the automobile crash.
+Pedestrian accidents were common in 2010.
+```
+
+#### C.	FUTURO SIMPLE:
+
+Forma: WILL BE / WILL NOT (WON’T) BE
+
+Ejemplos:	
+```
+The conference will be about new solutions for intelligent buildings.
+We won’t be (will not be) ready until Summer.
+```
+
+#### D.	CONDICIONAL SIMPLE
+
+Forma: WOULD BE / WOULD NOT (WOULDN’T) BE
+
+Ejemplos:	
+
+```
+An example of a LAN would be a computer network within a building.
+Metropolitan network wouldn’t be (would not be) for municipal services.
+```
+
+---
+
+## 2. DIFERENTES TRADUCCIONES DEL VERBO TO BE
+
+ 
+
+Traducción como SER
+
+```
+INGLÉS	                        ESPAÑOL
+------------------------        ------------------------------
+Technology is necessary.	La tecnología es necesaria.
+Education was essential.	La educación fue/era necesaria.
+```
+
+
+Traducción como ESTAR
+
+```
+INGLÉS	                        ESPAÑOL
+-----------------------------   ---------------------------------------------------
+The computers were in the lab.	Las computadoras estuvieron/estaban en el laboratorio.
+```
+
+
+Traducción como TENER
+
+```
+INGLÉS	                               ESPAÑOL
+----------------------                ----------------------------------- 
+She is two years old.	              (Ella) tiene dos años de edad.
+They are afraid of dogs.	      (Ellos) tienen miedo de los perros.
+The new road is one kilometer long.   La nueva carretera tiene un kilómetro de largo.
+They were cold and hungry.	      (Ellos) tenían frío y hambre.
+```
+
+
+#### Traducciones especiales:
+
+```
+INGLÉS	                 ESPAÑOL
+-----------------       ------------------------
+It was five pesos.	Costó cinco pesos.
+They are ten pesos	Cuestan/valen diez pesos.
+She is late.	        (Ella) llega tarde.
+She is early	        (Ella) llega temprano.
+```
+
+
+#### Verbo be + infinitivo (= to + base) se traduce como TENER QUE, DEBER
+
+```
+INGLÉS	                           ESPAÑOL
+----------------------------     ----------------------------------------------------
+They are to refurbish the lab.	(Ellos) tienen que/deben renovar el laboratorio.
+```
+
+#### Verbo be + about + infinitivo (= to + base) se traduce como ESTAR POR, ESTAR A PUNTO DE
+
+```
+INGLÉS	                                           ESPAÑOL
+-------------------------------------            -----------------------------------------
+They were about to modify the coding standards.	(Ellos) estuvieron/estaban por renovar los estándares de codificación.
+	                                         (Ellos) estuvieron/estaban a punto de renovar los estándares de codificación.
+```
+
+
+---
+---
+
 ## :star: Palabras reservadas de Java
 
 En el lenguaje de programación Java se puede hacer uso de las palabras clave (keywords) –también llamadas palabras reservadas– mostradas en la siguiente tabla, donde se indica la funcionalidad de cada una de ellas. Dichas palabras, no pueden ser utilizadas como identificadores por los programadores para definir variables, constantes, etc.
