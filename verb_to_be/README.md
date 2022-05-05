@@ -131,6 +131,88 @@ They were about to modify the coding standards.	(Ellos) estuvieron/estaban por r
 ---
 ---
 
+
+## :star: TO BE COMO SER O ESTAR
+
+We **are** studants -> Nosotros **somos** estudiantes
+
+Paul **is** at University -> Paul **está** en la universidad
+
+
+---
+
+### Tiempos verbales : Present Simple
+
+####  Afirmative
+
+| Pronombre Personal | Afirmativo |
+| ------------------ | ---------- |
+| I | am (yo soy, yo estoy) |
+| You | are (tú eres, tú estás) |
+| He | is (él es, él está) |
+| She | is (ella es, ella está) |
+| It | is (esto es, esto está) |
+| You | are (ustedes son, están) |
+| We | are (nosotros somos, estamos) |
+| They | are (ellos/ellas son, están) |
+
+
+
+| Contracción | Ejemplos | Traduccion |
+| ----------- | -------- | ---------- |
+| I am = I'm | I'm an English student  | Soy un estudiante de inglés |
+| You are = You're | You're my best friend  | Tú eres mi mejor amigo |
+| He is = He's | He's out of the town | Él está fuera de la ciudad |
+| She is = She's | She's in England right now | Ella está en Inglaterra ahora mismo |
+| It is = It's | It's time to  go | Es tiempo de irse |
+| We are = We're | We're here  | Nosotros estamos acá |
+| You are = You're | You're players of this game | Ustedes son jugadores de este partido |
+| They are = They're | They're members of our team  |  Ellos son miembros de nuestro equipo |
+
+
+#### Negative
+
+| Forma negativa | Forma contraida |
+| -------------- | --------------- |
+| I am not | I'm not |
+| You are not  |  you¡re not / you aren't |
+| He is not | he's not / he isn't |
+| She is not | she's not / she isn't |
+| It is not | it's not / it isn't |
+| We are not | we're not / we aren't |
+| You are not | you're not / you aren't |
+| They are not | they're not / they aren't |
+
+#### Interrogative 
+
+| Forma Interrogativa |  
+| ------------------- |  
+|  Am I a student ?|  
+|  Are you my beast friend? |  
+|  Is he out of the town? |  
+|  Where is she? |  
+|  What time is it? |  
+|  Where are you ? |  
+|  Are you players of this game? |  
+|  Are you members of our teams? |  
+
+---
+
+## :star: Simple Past
+
+| Afirmativo | Negativo | Contraccion | Interrogativo |
+| ---------- | -------- | ----------- | ------------- |
+| I was a student | I was not | I wasn't | Was I ...? |
+| You were in my class | You were not | You weren't | Were you...?  |
+| He was out of the town | He was not | He wasn't | Was he...?  |
+| She was in England | She was not | She wasn't | Was she...?  |
+| It was a good time | It was not | It wasn't | Was it...? |
+| You ere part of the team | You were not | You weren't | Were you...?  |
+| We were there | We were not | We weren't | Were we...?  |
+| They were the beast playaers | They were not | They weren't | Who were they? |
+---
+---
+
 ## :star: Palabras reservadas de Java
 
 En el lenguaje de programación Java se puede hacer uso de las palabras clave (keywords) –también llamadas palabras reservadas– mostradas en la siguiente tabla, donde se indica la funcionalidad de cada una de ellas. Dichas palabras, no pueden ser utilizadas como identificadores por los programadores para definir variables, constantes, etc.
