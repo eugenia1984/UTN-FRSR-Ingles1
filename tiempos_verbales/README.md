@@ -43,11 +43,57 @@ Teniendo claro este detalle, trabajaremos de manera habitual:
 
 ## :star: Guía Teórica
 
+
+
 ---
 ---
 
 ## :star: Cuadro de verbos
 
+### PRESENTE
+
+| SIMPLE | CONTINUO | PERFECTO |
+| ------ | -------- | -------- |
+| DO / DOES | AM / IS / ARE | HAVE / HAS |
+| A computer works. | A computer is working. | A computer has worked. |
+| Computers work. | Computers are working. | Computers have worked. |
+| A computer doesn’t work. | A computer isn’t working. | A computer hasn’t worked.|
+| Computers don’t work. | Computers aren’t working | Computers haven’t worked. |
+| Does a computer work? | Is a computer working? | Has a computer worked? |
+| Do computers work? | Are computers working? | Have computers worked? |
+
+
+###  PASADO
+
+| SIMPLE | CONTINUO | PERFECTO |
+| ------ | -------- | -------- |
+| | | |
+| | | |
+
+
+### FUTURO
+
+| SIMPLE | CONTINUO | PERFECTO |
+| ------ | -------- | -------- |
+| | | |
+| | | |
+
+
+###  CONDICIONAL
+
+| SIMPLE | CONTINUO | PERFECTO |
+| ------ | -------- | -------- |
+| | | |
+| | | |
+
+
+### Futuro “going to”
+
+A computer **is going to** work in the lab.
+
+Computers **are going to** work in the lab.
+
+**Are** computer **going to** work in the lab?
 
 ---
 ---
