@@ -43,6 +43,150 @@ Teniendo claro este detalle, trabajaremos de manera habitual:
 
 ## :star: Guía Teórica
 
+**TIEMPOS VERBALES**
+
+ 
+
+Los verbos en inglés se mencionan en infinitivo con la partícula to.
+
+Ejemplo:	
+
+to work	-> trabajar, funcionar
+
+to provide -> proveer, suministrar
+
+El sistema verbal en inglés es mucho más simple que el castellano, ya que en casi todos los tiempos verbales el verbo es igual para todas las personas (por eso es obligatorio poner siempre un sujeto).
+Veamos cómo cambiaría un ejemplo según el tiempo verbal utilizado.
+
+---
+
+## 1 - TIEMPOS VERBALES PRINCIPALES
+
+### 1.1 PRESENTE SIMPLE
+
+Forma: PROVIDE, PROVIDES / DO NOT (DON’T) PROVIDE, DOES NOT (DOESN’T) PROVIDE
+
+Ejemplos:	Scientific research articles provide a method for scientists to communicate.
+
+Scientific research articles do not provide a method for scientists to communicate. 
+
+Do scientific research articles provide a method for scientists to communicate?
+
+### 1.2 PASADO SIMPLE
+
+Forma: PROVIDED / DID NOT (DIDN’T) PROVIDE
+
+Ejemplos:	
+
+Scientific research articles provided a method for scientists to communicate.
+
+Scientific research articles did not provide a method for scientists to communicate. 
+
+Did scientific research articles provide a method for scientists to communicate?
+
+
+### 1.3	FUTURO SIMPLE
+
+Forma: WILL PROVIDE / WILL NOT (WON’T) PROVIDE
+
+Ejemplos:	
+
+Scientific research articles will provide a method for scientists to communicate.
+
+Scientific research articles will not provide a method for scientists to communicate. 
+
+Will scientific research articles provide a method for scientists to communicate?
+
+
+### 1.4	CONDICIONAL SIMPLE
+
+Forma: WOULD PROVIDE / WOULD NOT (WOULDN’T) PROVIDE
+
+Ejemplos:	
+
+Scientific research articles would provide a method for scientists to communicate.
+
+Scientific research articles would not provide a method for scientists to communicate. 
+
+Would scientific research articles provide a method for scientists to communicate?
+
+
+### 1.5 PRESENTE CONTINUO
+
+Forma: AM, IS, ARE PROVIDING / AM NOT, IS NOT (ISN’T), ARE NOT (AREN’T) PROVIDING
+
+Ejemplos:	
+
+Scientific research articles are providing a method for scientists to communicate.
+
+Scientific research articles are not providing a method for scientists to communicate. 
+
+Are scientific research articles providing a method for scientists to communicate?
+
+### 1.6.	PASADO CONTINUO
+
+Forma: WAS, WERE PROVIDING /WAS NOT (WASN’T), WERE NOT (WEREN’T) PROVIDING
+
+Ejemplos:	
+
+Scientific research articles were providing a method for scientists to communicate.
+
+Scientific research articles were not providing a method for scientists to communicate. 
+
+Were scientific research articles providing a method for scientists to communicate?
+
+
+### 1.7 FUTURO GOING TO
+
+Forma: AM, IS, ARE GOING TO PROVIDE
+
+Ejemplos:	
+
+Scientific research articles are going to provide a method for scientists to communicate.
+
+Scientific research articles are not going to provide a method for scientists to communicate.
+
+Are scientific research articles going to provide a method for scientists to communicate?
+
+### 1.8	PRESENTE PERFECTO
+
+Forma: HAVE, HAS PROVIDED / HAVE NOT (HAVEN’T) PROVIDED, HAS NOT (HASN’T) PROVIDED
+
+Ejemplos:	
+
+Scientific research articles have provided a method for scientists to communicate.
+
+Scientific research articles have not provided a method for scientists to communicate. 
+
+Have scientific research articles provided a method for scientists to communicate?
+
+
+### 1.9 PASADO PERFECTO
+
+Forma: HAD PROVIDED / HAD NOT (HADN’T) PROVIDED
+
+Ejemplos:	
+
+Scientific research articles had provided a method for scientists to communicate.
+
+Scientific research articles had not provided a method for scientists to communicate. 
+
+Had scientific research articles provided a method for scientists to communicate?
+
+
+### 1.10 FUTURO PERFECTO
+
+Forma: WILL HAVE PROVIDED / WILL NOT HAVE (WON’T HAVE) PROVIDED
+
+Ejemplos:	
+
+Scientific research articles will have provided a method for scientists to communicate.
+
+Scientific research articles will not have provided a method for scientists to communicate. 
+
+Will scientific research articles have provided a method for scientists to communicate?
+
+
 
 
 ---
