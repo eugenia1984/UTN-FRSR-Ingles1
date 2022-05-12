@@ -93,13 +93,11 @@ Teniendo claro este detalle, trabajaremos de manera habitual:
 
 | SIMPLE | CONTINUO | PERFECTO |
 | ------ | -------- | -------- |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| WOULD | WOULD BE | WOULD HAVE |
+| A computer would work. | A computer would be working. | A computer would have worked. |
+| A computer would work. | A computer wouldn’t be working. | A computer woulnd’t have worked. |
+| A computer wouldn’t work. | Would a computer be working? | Would a computer have worked? |
+
 
 
 ### Futuro “going to”
