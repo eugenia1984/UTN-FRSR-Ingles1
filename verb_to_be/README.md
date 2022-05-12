@@ -342,6 +342,49 @@ They ARE ten pesos      CUESTAN/VALEN diez pesos
 She IS always late      Ella siempre LLEGA tarde
 Tommy WAS early         Tommy LLEGÓ temprano
 ```
+
+
+---
+
+## :star: Verbo BE + INFINITIVO ( to + base )
+
+-> **TENER QUE / DEBER**
+
+```
+Inglés                         Español
+---------                      --------
+They ARE TO refurbish the lab  Ellos TIENEN QUE / DEBEN remodelar el laboratorio
+```
+
+---
+
+## :star: Verbo BE + ABOUR + infinitivo ( = to + base )
+
+-> **ESTAR POR / ESTAR A PUNTO DE**
+
+```
+Inglés                                          Español
+---------                                       --------
+They WERE ABOUT to modify the coding standards  Ellos ESTUVIERON/ESTABAN POR RENOVAR los estándares de codificación
+                                                Ellos ESTUVIERON/ESTABAN A PUNTO DE RENOVAR los estándares de codificación
+```
+
+---
+
+## :star: Practica
+
+
+```
+Inglés                                        Español
+---------                                     --------
+The program evaluation IS essential           La evaluación del programa ES esencial
+The program evaluation WAS essential          La evaluación del programa ERA/FUE esencial
+The program evaluation WILL NOT BE essential  La evaluación del programa NO SERÁ esencial
+The program evaluation WOULD BE essential  La evaluación del programa SERÍA esencial
+```
+
+
+
 ---
 ---
 
