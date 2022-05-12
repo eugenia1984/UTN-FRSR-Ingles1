@@ -67,22 +67,37 @@ Teniendo claro este detalle, trabajaremos de manera habitual:
 
 | SIMPLE | CONTINUO | PERFECTO |
 | ------ | -------- | -------- |
-| | | |
-| | | |
+| DID | WAS / WERE  | HAD |
+| A computer worked. | A computer was working. | A computer had worked. |
+| Computers worked.| Computers were working. | Computers had worked.|
+| A computer didn’t work. | A computer wasn’t working. | A computer hadn’t worked. |
+| Computers didn’t work.| Computers weren’t working. | Computers hadn’t worked.|
+| Did a computer work? | Was a computer working? | Had a computer worked? |
+| Did computers work?| Were computers working? | Had computers worked?|
 
 
 ### FUTURO
 
 | SIMPLE | CONTINUO | PERFECTO |
 | ------ | -------- | -------- |
-| | | |
-| | | |
+| WILL | WILL BE | WILL HAVE |
+| A computer will work. | A computer will be working. | A computer will have worked. |
+| Computers will work.| Computers will be working.| Computers will have worked.|
+| A computer won’t work | A computer won’t be working. | A computer won’t have worked. |
+| Computers won’t work | Computer won’t be working. | Computers won’t have worked. |
+| Will a computer work? | Will a computer be working? | Will a computer have worked? |
+| Will computers work? | Will computers be working? | Will computers have worked? |
 
 
 ###  CONDICIONAL
 
 | SIMPLE | CONTINUO | PERFECTO |
 | ------ | -------- | -------- |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 | | | |
 | | | |
 
