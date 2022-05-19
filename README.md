@@ -14,6 +14,8 @@ Temas:
 
 - [Tiempos Verbales](https://github.com/eugenia1984/UTN-FRSR-Ingles1/tree/main/tiempos_verbales)
 
+- [Verbos Modales](https://github.com/eugenia1984/UTN-FRSR-Ingles1/tree/main/verbos_modales)
+
 - Grupo Verbal
 
 - Grupo Verbal Complejo
