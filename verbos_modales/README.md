@@ -146,18 +146,149 @@ Computer software will have to be loaded into the storage of the computer.
 
 El siguiente cuadro presenta un resumen de los principales verbos modales, sus usos y ejemplos con sus traducciones.
 
+---
+
+### :star: USOS
+
 | Tipo | Verbo modal | Ejemplos |
 | ---- | ----------- | -------- |
-| HABILIDAD |	Can, could | They can read fast -> Pueden leer rápido. |
-| PERMISO | Can, could, may |	May I come in? -> ¿Puedo entrar? |
-| SUJERENCIA |	Should, ought to | You should include the data first. -> Deberías incluir la información primero. |
-| OBLIGACIÓN | Must, have to | He must update the device. -> Él debe actualizar el dispositivo. |
-| POSIBILIDAD	|Might, may, Could, can	|It might include new versions.	-> Podría incluir nuevas versiones. |
+| **HABILIDAD** |	**can**, **could** | They can read fast -> Pueden leer rápido. |
+| **PERMISO** | **can**, **could**, **may** |	May I come in? -> ¿Puedo entrar? |
+| **SUGERENCIA** |	**should**, **ought to** | You should include the data first. -> Deberías incluir la información primero. |
+| **OBLIGACIÓN** | **must**, **have to** | He must update the device. -> Él debe actualizar el dispositivo. |
+| **POSIBILIDAD**	| **might**, **may**, **could**, **can**	| It might include new versions.	-> Podría incluir nuevas versiones. |
 			
 
-Fuente consultada: https://www.britishcouncil.org.ve/blog/aprende-ingles/verbos-modales
+-> La diferencia entre **can**, **could** y **may** es el grado de formalidad
+
+MAY es mas formal que COULD, y a su vez COULD es mas formal que CAN
+
+```
+informal            formal
+CAN       COULD     MAY
+```
+
+Fuente consultada: [https://www.britishcouncil.org.ve/blog/aprende-ingles/verbos-modales](https://www.britishcouncil.org.ve/blog/aprende-ingles/verbos-modales)
 
 ---
+---
+
+## :star: Video
+
+- Los verbos modales en inglés son un tipo de verbos auxiliares. En general, no tienen significado completo por sí mismos y deben acompañar a un verbo principal para funcionar.
+
+- Se combina con un verbo en su forma base (infinitvo sin el *to*)
+
+
+### Forma
+
+**Subject** + **Modal Verb** + **prinicpal Verb** + **Complement**
+
+I must take a decision. -> Debo tomar una decision
+
+---
+
+
+### Usos
+
+#### Posibilidad
+
+**CAN / CAN NOT = CAN'T** 
+
+posibilidad - permiso - habilidad
+
+They **can** add more capabilities to the software.
+
+(Ellos) **pueden** agregar más capacidades al programa.
+
+
+**MAY / MAY NOT**
+
+permiso en el futuro - posibilidad en futuro
+
+They **may** add more capabilities to the software.
+
+(Ellos) **pueden** agregar más capacidades al programa.
+
+
+**COULD / COULD NOT = COULDN`T**
+
+posibilidad futura o habilidad (en pasado) - permiso
+
+
+They **could** add more capabilities to the software.
+
+(Ellos) **pudieron** ageegar más capacidades al programa. -> habilidad (en pasado)
+
+(Ellos) **podrían** agregar más capacidades al programa. -> posibilidad futura
+
+
+**MIGHT**
+
+posibilidad más remota
+
+They **might** add more capabilities to the software.
+
+(Ellos) **podrían** agregar más capacidades al programa. 
+
+
+#### Posibilidad
+
+Expresión equivalente: **BE ABLE TO**
+
+Ejemplo:
+
+They **will be able to add** more capabilities to the software.
+
+(Ellos) **podrían** agregar más capacidades al programa.
+
+
+#### Obligacion
+
+**MUST / MUST NOT = MUSTN`T**
+
+obligacion - prohibicion - necesidad - deduccion
+
+They **must add** more capabilities to the software.
+
+(Ellos) **deben** agregar más capacidades al programa.
+
+-> expresión equivalente: **HAVE TO**
+
+obligacion - necesidad - deduccion
+
+
+They **will have to add** more capabilities to the software.
+
+(Ellos) **tendrán** agregar más capacidades al programa.
+
+
+(Ellos) **deberán** agregar más capacidades al programa.
+
+#### Sugerencia
+
+**SHOULD / SHOULD NOT = SHOULDN`T**
+
+consejo - sugerencia
+
+They **should add** more capabilities to the software.
+
+(Ellos) **deberían** agregar más capacidades al programa.
+
+
+-> expresion equivalente : **OUGHT TO**
+
+consejo - sugerencia
+
+They **ought to add** more capabilities to the software.
+
+(Ellos) **deberían** agregar más capacidades al programa.
+
+
+---
+---
+
+
 
 ## PRÁCTICA
 
@@ -184,10 +315,6 @@ Traduzca las siguientes oraciones
 
 
 - 6) A software developer may take part in  design,  computer  programming  or  software  project management.
-
-
-
-
 
 
 ---
