@@ -16,6 +16,8 @@ Temas:
 
 - [Verbos Modales](https://github.com/eugenia1984/UTN-FRSR-Ingles1/tree/main/verbos_modales)
 
+- [Imperativo](https://github.com/eugenia1984/UTN-FRSR-Ingles1/tree/main/imperativo)
+
 - Grupo Verbal
 
 - Grupo Verbal Complejo
