@@ -121,4 +121,34 @@ into the slot.
 
 Para finalizar, te comparto este cuadro.
 
+
+### IMPERATIVOS EN INGLES
+
+**USO**
+
+EL **imperativo** es un tiempo verbal que se usa para decirle a alguien qué hacer o no hacer: dar órdenes o instrucciones, pedir favores, hacer advertencias o recomendaciones.
+
+
+**EJEMPLOS**
+
+**Run** faster -> **Corrran** más rápido
+
+**Don`t sleep** in class -> **No duerman** en clase
+
+**Watch out!** -> **Ten cuidado!**
+
+**ESTRUCTURA**
+
+- afirmatico: **verbo + complemento**
+
+**Enjoy** your flight -> **Disfruten** su vuelo.
+
+**Write** a letter in English -> **Escribe** una carta en ingles
+
+- negativo : **don`t + verbo + complemeto**
+
+**Don`t play** here -> **No juegues** aqui
+
+**Don`t eat fast food** -> **no comas** comidad rápida.
+
 ---
