@@ -1,4 +1,4 @@
- # :book: Imperativo
+ # :book: Imperativo : 26 de Mayo
 
 ---
 
@@ -139,7 +139,7 @@ EL **imperativo** es un tiempo verbal que se usa para decirle a alguien qué hac
 
 **ESTRUCTURA**
 
-- afirmatico: **verbo + complemento**
+- afirmativo: **verbo + complemento**
 
 **Enjoy** your flight -> **Disfruten** su vuelo.
 
